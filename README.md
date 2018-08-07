@@ -1,7 +1,7 @@
 # Google ML Course Notebook
 
 ## Table of Contents
---------------------
+
 ### [ML Concepts](./ml_concepts/ml_concepts.ipynb)
 - [Framing](./ml_concepts/ml_concepts.ipynb#Framing)
 - [Descending into ML](./ml_concepts/ml_concepts.ipynb#Descending-into-ML)
